@@ -1,3 +1,9 @@
+# **Courts**
+
+How the courts have killed it in 2025! (And our AGs, governors, reps, juries, judges, rights groups, and even companies.)
+
+We fight back against unconstititional Trump 3 ways: on the streets, at the polls, and importantly in our courts. Take a look at all the hard work, fight, and amazing wins:
+
 | Case                                                         | Source                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | The District of Columbia sues over Trump's deployment of the National Guard, alleging the violation amounts to an unconstitutional, "involuntary military occupation. | https://www.cbsnews.com/news/trump-dc-national-guard-deployment-lawsuit/ |
