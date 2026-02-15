@@ -2,10 +2,9 @@
 <meta property="og: image" content="courts_social.jpg" />
 </head>
 
-%Courts
 # **Courts**
 
-How the courts have killed it in 2025! (And our AGs, governors, reps, juries, judges, rights groups, and even companies.)
+How the courts have killed it! And our AGs, governors, reps, juries, judges, rights groups, and even companies.
 
 We fight back against unconstititional Trump 3 ways: on the streets, at the polls, and importantly in our courts. Take a look at all the hard work, fight, and amazing wins:
 
