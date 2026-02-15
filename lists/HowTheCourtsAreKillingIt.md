@@ -1,6 +1,5 @@
 <head>
-  <title>How the courts have killed it!</title>
-<meta property="og:image" content="https://github.com/mba12/ssftest/blob/main/lists/courts_social.jpg" />
+<meta property="og:image"  content="https://github.com/mba12/ssftest/blob/main/lists/courts_social.jpg" />
 
 </head>
 
