@@ -2,7 +2,7 @@
 <meta property="og: image" content="courts_social.jpg" />
 </head>
 
-# Courts**
+# Courts
 
 How the courts have killed it! And our AGs, governors, reps, juries, judges, rights groups, and even companies.
 
