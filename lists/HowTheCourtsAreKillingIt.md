@@ -1,7 +1,7 @@
 <head>
 <meta property="og: image" content="courts_social.jpg" />
 </head>
-<span style="font-family: 'American Typewriter Regular', serif; font-size: 24px;">
+<span style="font-family: 'Times New Roman', serif; font-size: 24px;">
 
 
 # **Courts**
@@ -190,8 +190,7 @@ We fight back against unconstititional Trump 3 ways: on the streets, at the poll
 | A former Illinois sheriff’s deputy was sentenced to 20 years in prison for fatally shooting Sonya Massey, a Black woman who had dialed 911 to report a possible prowler outside her Springfield home. Sean Grayson, who is white, was convicted in October of second-degree murder in a police brutality case that prompted protests over systemic racism and led to a DOJ inquiry | [https://apnews.com/article/sonya-massey-grayson-murder-sentence-b4af388a9e7133449e861033a741d2ff](https://apnews.com/article/sonya-massey-grayson-murder-sentence-b4af388a9e7133449e861033a741d2ff?utm_source=onesignal&utm_medium=push&utm_campaign=2026-01-29-Breaking+News) |
 | SCOTUS allows CA Democratic-drawn Congressional map to move forward | https://abcnews.go.com/Politics/supreme-court-allows-california-move-forward-new-congressional/story?id=129858465 |
 
-
-#OVERARCHING LOOK AT COURTS
+**OVERARCHING LOOK AT COURTS**
 
 | Case                                                         | Source                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
