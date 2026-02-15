@@ -1,9 +1,7 @@
 <head>
 <meta property="og: image" content="courts_social.jpg" />
 </head>
-```
 <span style="font-family: 'American Typewriter Regular', serif; font-size: 24px;">
-```
 
 
 # **Courts**
