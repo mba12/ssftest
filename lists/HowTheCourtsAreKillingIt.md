@@ -1,10 +1,8 @@
 <head>
 <meta property="og: image" content="courts_social.jpg" />
 </head>
-<span style="font-family: 'Times New Roman', serif; font-size: 24px;">
 
-
-# **Courts**
+# Courts**
 
 How the courts have killed it! And our AGs, governors, reps, juries, judges, rights groups, and even companies.
 
@@ -200,4 +198,3 @@ We fight back against unconstititional Trump 3 ways: on the streets, at the poll
 | Biden appointed more judges than almost any other president, clearly focused on protecting US citizens and our institutions should Trump return. So think about sending a postcard or two to one of the judges mentioned in the articles above. They could use the thanks, solidarity and good cheer, as the judiciary is exhausted and under terrible attack | https://www.cbsnews.com/news/biden-235-judicial-confirmations/ |
 | Pending: SCOTUS appeared ready to gut a key tool of the Voting Rights Act that has helped root out racial discrimination in voting for more than a half century, a change that would boost Republican electoral prospects, particularly across the South | https://apnews.com/article/supreme-court-voting-rights-louisiana-race-963c002fcb8a35afe36b2e14111cb88e?utm_source=onesignal&utm_medium=push&utm_campaign=2025-10-15-Voting+rights+case |
 
-</span>
