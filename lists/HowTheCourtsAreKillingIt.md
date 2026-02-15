@@ -1,5 +1,7 @@
 <head>
 <meta property="og: image" content="https://github.com/mba12/ssftest/blob/main/lists/courts_social.jpg" />
+  <meta name="twitter:image" content="https://github.com/mba12/ssftest/blob/main/lists/courts_social.jpg"
+/>
 </head>
 
 
